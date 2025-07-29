@@ -8,6 +8,8 @@ This project is a complete backend implementation for the KPA ERP system as per 
 
 The application is built using Python with the FastAPI framework, emphasizing performance, code clarity, and modern development practices.
 
+Project Implementation Video https://drive.google.com/file/d/1PEeuS0jhkzAUDRY1l-WsjrBsH9Rj9AAr/view?usp=sharing
+
 ## Technologies Used
 
   * **Backend Framework:** Python & FastAPI
